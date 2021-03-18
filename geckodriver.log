@@ -1,0 +1,815 @@
+1613390493883	geckodriver	INFO	Listening on 127.0.0.1:51400
+1613390496952	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileWYdgl9"
+1613390517215	Marionette	INFO	Listening on port 51410
+1613390517685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613390517846	Marionette	DEBUG	[6442450945] Frame script loaded
+1613390517889	Marionette	DEBUG	[6442450945] Frame script registered
+[Child 5084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613390540686	Marionette	INFO	Stopped listening on port 51410
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot [Child 10784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613390541040	Marionette	DEBUG	[6442450945] Frame script loaded
+1613390541044	Marionette	ERROR	[6442450945] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 457: TypeError: reply[0] is undefined
+[Child 20784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613390541435	Marionette	INFO	Stopped listening on port 51462
+[GPU 13256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613390592537	geckodriver	INFO	Listening on 127.0.0.1:51488
+1613390595524	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileKjaTEV"
+1613390602999	Marionette	INFO	Listening on port 51497
+1613390603465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613390603534	Marionette	DEBUG	[6442450945] Frame script loaded
+1613390603538	Marionette	DEBUG	[6442450945] Frame script registered
+1613390603568	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613390606692	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613390611294	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613390613337	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Parent 10948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613390630973	Marionette	INFO	Stopped listening on port 51497
+[GPU 20500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613390939358	geckodriver	INFO	Listening on 127.0.0.1:51575
+1613390942362	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile0LAzSM"
+1613390948365	Marionette	INFO	Listening on port 51586
+1613390948730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613390948791	Marionette	DEBUG	[6442450945] Frame script loaded
+1613390948795	Marionette	DEBUG	[6442450945] Frame script registered
+1613390948841	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613390949662	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613390950858	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613390953471	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Parent 20336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613391096214	Marionette	INFO	Stopped listening on port 51586
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+0	Marionette	DEBUG	[6442450945] Frame script loaded
+1613391094235	Marionette	DEBUG	[6442450945] Frame script registered
+1613391094368	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613391095241	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613391096422	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613391098887	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1613391135830	Marionette	INFO	Stopped listening on port 51653
+[GPU 12504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot sen1613391139362	Marionette	INFO	Listening on port 51705
+1613391139384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613391139455	Marionette	DEBUG	[6442450945] Frame script loaded
+1613391139470	Marionette	DEBUG	[6442450945] Frame script registered
+1613391139523	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613391140358	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613391141297	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613391144003	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[Child 9944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613391858739	Marionette	INFO	Stopped listening on port 51705
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[Parent 19704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341613391862549	Marionette	INFO	Listening on port 60708
+1613391862634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613391862697	Marionette	DEBUG	[6442450945] Frame script loaded
+1613391862764	Marionette	DEBUG	[6442450945] Frame script registered
+1613391862830	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613391863739	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613391864865	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613391867617	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Child 11296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line1613391909328	Marionette	INFO	Listening on port 60771
+1613391909525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613391909598	Marionette	DEBUG	[6442450945] Frame script loaded
+1613391909603	Marionette	DEBUG	[6442450945] Frame script registered
+1613391909639	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613391910498	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613391911605	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613391913569	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Parent 21400, Gecko_IOThread] WARNING: pipe error: 109: fil1613391936421	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileKJdLpq"
+1613391940030	Marionette	INFO	Listening on port 60826
+1613391940172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613391940227	Marionette	DEBUG	[6442450945] Frame script loaded
+1613391940269	Marionette	DEBUG	[6442450945] Frame script registered
+1613391940310	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613391941296	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613391942331	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613391944681	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Child 10524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613392138041	Marionette	INFO	Stopped listening on port 60826
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613392145221	geckodriver	INFO	Listening on 127.0.0.1:61003
+1613392148239	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileoqkuD5"
+1613392151874	Marionette	INFO	Listening on port 61014
+1613392151994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613392152054	Marionette	DEBUG	[6442450945] Frame script loaded
+1613392152059	Marionette	DEBUG	[6442450945] Frame script registered
+1613392152143	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613392152924	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613392153704	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613392156028	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Parent 18744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613392187650	Marionette	INFO	Stopped listening on port 61014
+[GPU 11392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613392491608	geckodriver	INFO	Listening on 127.0.0.1:61266
+1613392494610	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile5HmtKN"
+1613392498891	Marionette	INFO	Listening on port 61277
+1613392498932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613392498996	Marionette	DEBUG	[4294967297] Frame script loaded
+1613392499091	Marionette	DEBUG	[4294967297] Frame script registered
+1613392499147	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1613392500028	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1613392500988	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613392503369	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/
+[Parent 21476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613392833547	Marionette	INFO	Stopped listening on port 61277
+[GPU 7180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613392737781	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613392738848	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613392741799	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+1613392831677	Marionette	INFO	Stopped listening on port 61699
+[GPU 8708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+2543	Marionette	INFO	Listening on port 61774
+1613392792929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613392793027	Marionette	DEBUG	[6442450945] Frame script loaded
+1613392793033	Marionette	DEBUG	[6442450945] Frame script registered
+1613392793073	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613392794057	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613392795084	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613392797051	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Parent 18000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613392828362	Marionette	INFO	Stopped listening on port 61774
+[GPU 20328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613393311416	geckodriver	INFO	Listening on 127.0.0.1:62445
+1613393314394	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilecGrUQJ"
+1613393319049	Marionette	INFO	Listening on port 62456
+1613393319205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613393319264	Marionette	DEBUG	[6442450945] Frame script loaded
+1613393319268	Marionette	DEBUG	[6442450945] Frame script registered
+1613393319305	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613393320197	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613393321330	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613393323466	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Child 16804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613393429291	Marionette	INFO	Stopped listening on port 62456
+[GPU 20156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r about:blank
+1613393374703	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613393377382	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Child 20868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613393425986	Marionette	INFO	Stopped listening on port 62526
+[GPU 17680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Parent 14328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613393428092	Marionette	INFO	Stopped listening on port 62579
+[GPU 16484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613393465509	geckodriver	INFO	Listening on 127.0.0.1:62659
+1613393468504	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilezx2y7u"
+1613393472091	Marionette	INFO	Listening on port 62670
+1613393472188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613393472283	Marionette	DEBUG	[6442450945] Frame script loaded
+1613393472337	Marionette	DEBUG	[6442450945] Frame script registered
+1613393472535	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613393473431	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613393474490	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613393477288	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613393541387	Marionette	INFO	Stopped listening on port 62670
+[GPU 12268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613393615237	geckodriver	INFO	Listening on 127.0.0.1:62795
+1613393618248	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileMfCrqc"
+1613393621669	Marionette	INFO	Listening on port 62806
+1613393621946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613393622008	Marionette	DEBUG	[6442450945] Frame script loaded
+1613393622052	Marionette	DEBUG	[6442450945] Frame script registered
+1613393622105	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613393622879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613393623744	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613393625720	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Parent 19252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 17200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613393971007	Marionette	INFO	Stopped listening on port 62806
+[GPU 11204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613413350248	geckodriver	INFO	Listening on 127.0.0.1:64606
+1613413353358	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileQ1xl0a"
+1613413358591	Marionette	INFO	Listening on port 64616
+1613413358782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613413359047	Marionette	DEBUG	[6442450945] Frame script loaded
+1613413359053	Marionette	DEBUG	[6442450945] Frame script registered
+1613413359123	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613413363885	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613413368196	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613413375481	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Parent 13028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21200, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 21200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613413421677	Marionette	INFO	Stopped listening on port 64616
+[GPU 18812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613413556957	geckodriver	INFO	Listening on 127.0.0.1:64754
+1613413559922	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileG0plzB"
+1613413563673	Marionette	INFO	Listening on port 64764
+1613413564167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613413564238	Marionette	DEBUG	[6442450945] Frame script loaded
+1613413564243	Marionette	DEBUG	[6442450945] Frame script registered
+1613413564287	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613413565438	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613413570137	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613413574960	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Child 3136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613413594692	Marionette	INFO	Stopped listening on port 64764
+[GPU 2636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613413602137	geckodriver	INFO	Listening on 127.0.0.1:64843
+1613413605139	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileRzm0LJ"
+1613413608710	Marionette	INFO	Listening on port 64854
+1613413608857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613413608985	Marionette	DEBUG	[6442450945] Frame script loaded
+1613413608993	Marionette	DEBUG	[6442450945] Frame script registered
+1613413609101	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613413609884	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613413611188	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613413613268	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1613413905745	Marionette	INFO	Stopped listening on port 64854
+[GPU 10800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613413924597	geckodriver	INFO	Listening on 127.0.0.1:65055
+1613413927583	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileijEeuY"
+1613413931629	Marionette	INFO	Listening on port 65067
+1613413931751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613413931820	Marionette	DEBUG	[6442450945] Frame script loaded
+1613413931831	Marionette	DEBUG	[6442450945] Frame script registered
+1613413931884	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613413932727	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613413933815	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613413936903	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Child 6744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613414002818	Marionette	INFO	Stopped listening on port 65067
+[GPU 7008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613476800644	geckodriver	INFO	Listening on 127.0.0.1:59814
+1613476803680	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileAesUhy"
+1613476809725	Marionette	INFO	Listening on port 59826
+1613476810018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613476810098	Marionette	DEBUG	[6442450945] Frame script loaded
+1613476810117	Marionette	DEBUG	[6442450945] Frame script registered
+1613476810172	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613476811075	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613476812891	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613476815692	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Child 19832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613476832897	Marionette	INFO	Stopped listening on port 59826
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613476945098	geckodriver	INFO	Listening on 127.0.0.1:59956
+1613476948103	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileBq6CWC"
+1613476952173	Marionette	INFO	Listening on port 59968
+1613476952409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613476952495	Marionette	DEBUG	[6442450945] Frame script loaded
+1613476952547	Marionette	DEBUG	[6442450945] Frame script registered
+1613476952596	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613476953785	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613476954876	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613476957535	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Child 11576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613477011686	Marionette	INFO	Stopped listening on port 59968
+[GPU 19756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613477017182	geckodriver	INFO	Listening on 127.0.0.1:60039
+1613477020190	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileJb2Lt9"
+1613477023744	Marionette	INFO	Listening on port 60049
+1613477023901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613477023967	Marionette	DEBUG	[6442450945] Frame script loaded
+1613477023988	Marionette	DEBUG	[6442450945] Frame script registered
+1613477024032	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613477024804	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613477025831	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613477029778	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Parent 17308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613477440127	Marionette	INFO	Stopped listening on port 60049
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+0595	Marionette	INFO	Listening on port 60358
+1613477440722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613477440798	Marionette	DEBUG	[4294967297] Frame script loaded
+1613477440825	Marionette	DEBUG	[4294967297] Frame script registered
+1613477440884	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1613477442033	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1613477442809	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613477445010	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.instagram.com/
+[Child 16164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613477503244	Marionette	INFO	Stopped listening on port 60358
+[GPU 13556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613477511806	geckodriver	INFO	Listening on 127.0.0.1:60449
+1613477514811	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilen3MdId"
+1613477518898	Marionette	INFO	Listening on port 60459
+1613477519160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613477519228	Marionette	DEBUG	[6442450945] Frame script loaded
+1613477519241	Marionette	DEBUG	[6442450945] Frame script registered
+1613477519302	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613477520358	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613477521231	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613477523656	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Child 18620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line1613477775590	Marionette	INFO	Listening on port 61035
+1613477775945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613477776009	Marionette	DEBUG	[6442450945] Frame script loaded
+1613477776013	Marionette	DEBUG	[6442450945] Frame script registered
+1613477776046	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613477776954	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613477777993	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613477780097	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+[Child 17664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613477861611	Marionette	INFO	Stopped listening on port 61035
+[GPU 13052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613477904127	geckodriver	INFO	Listening on 127.0.0.1:61145
+1613477907162	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileYgjUJX"
+1613477911221	Marionette	INFO	Listening on port 61167
+1613477911421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613477911489	Marionette	DEBUG	[6442450945] Frame script loaded
+1613477911503	Marionette	DEBUG	[6442450945] Frame script registered
+1613477911540	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1613477912504	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1613477913400	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.instagram.com/
+1613477915458	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.instagram.com/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613477940467	Marionette	INFO	Stopped listening on port 61167
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613564344117	geckodriver	INFO	Listening on 127.0.0.1:64531
+1613564532270	geckodriver	INFO	Listening on 127.0.0.1:64565
+1613564634693	geckodriver	INFO	Listening on 127.0.0.1:64621
+1613564685102	geckodriver	INFO	Listening on 127.0.0.1:64644
+1613564688172	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileI8QD6l"
+1613564694177	Marionette	INFO	Listening on port 64659
+1613564694492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613564694540	Marionette	DEBUG	[6442450945] Frame script loaded
+1613564694543	Marionette	DEBUG	[6442450945] Frame script registered
+1613564768553	Marionette	INFO	Stopped listening on port 64659
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613564769913	geckodriver	INFO	Listening on 127.0.0.1:64691
+1613564772919	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileCXH2y3"
+1613564776451	Marionette	INFO	Listening on port 64701
+1613564776609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613564776674	Marionette	DEBUG	[6442450945] Frame script loaded
+1613564776682	Marionette	DEBUG	[6442450945] Frame script registered
+[Parent 22440, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 22440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613564923983	Marionette	INFO	Stopped listening on port 64701
+[GPU 1756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613564929244	geckodriver	INFO	Listening on 127.0.0.1:64753
+1613564932290	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilepJpaFf"
+1613564936153	Marionette	INFO	Listening on port 64762
+1613564936470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613564936517	Marionette	DEBUG	[6442450945] Frame script loaded
+1613564936521	Marionette	DEBUG	[6442450945] Frame script registered
+[Parent 12024, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 23408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613564978346	Marionette	INFO	Stopped listening on port 64762
+[GPU 22128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1613565039048	geckodriver	INFO	Listening on 127.0.0.1:64793
+1613565042059	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileDpqVxO"
+1613565046187	Marionette	INFO	Listening on port 64803
+1613565046236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613565046313	Marionette	DEBUG	[6442450945] Frame script loaded
+1613565046317	Marionette	DEBUG	[6442450945] Frame script registered
+[Parent 17464, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1613565909982	Marionette	DEBUG	[2147483652] Frame script loaded
+1613565909992	Marionette	DEBUG	[2147483652] Frame script registered
+[Parent 17464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1613565980005	Marionette	INFO	Stopped listening on port 64803
+[GPU 22876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615021805664	geckodriver	INFO	Listening on 127.0.0.1:49760
+1615021808755	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileabGrxq"
+JavaScript error: 1shgaqokmx3.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1615021816051	Marionette	INFO	Listening on port 49768
+1615021816361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615021838387	Marionette	INFO	Stopped listening on port 49768
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615021841266	geckodriver	INFO	Listening on 127.0.0.1:60093
+1615021844316	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileWhHzPk"
+JavaScript error: 1shgaqokmx3.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615021850875	Marionette	INFO	Listening on port 60119
+1615021850931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615021989128	Marionette	INFO	Stopped listening on port 60119
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileoEe4iJ"
+JavaScript error: 1shgaqokmx3.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 12816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1615021906963	Marionette	INFO	Listening on port 60229
+1615021907401	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2776, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1615021990770	Marionette	INFO	Stopped listening on port 60229
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+kmx3.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615021994858	Marionette	INFO	Listening on port 60319
+1615021995134	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4968, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Parent 14064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1615022016275	Marionette	INFO	Stopped listening on port 60319
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
